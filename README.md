@@ -30,9 +30,6 @@ The work was completed as part of the **MSc Business Analytics** program at **Na
 - Linear regression controlling for confounders (department, rank, experience, publications).  
 - Logistic regression for promotion and department placement odds.  
 
-### CART Decision Tree  
-- Comparative modeling to highlight how framing/model choice impacts conclusions.  
-
 ---
 
 ## 📊 Key Findings  
